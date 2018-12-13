@@ -1,1 +1,3 @@
 this is git1-2.txt!
+
+master, file:git1-2.txt , floder:git1 ,toward:  feeling/master,
